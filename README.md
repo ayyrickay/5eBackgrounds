@@ -1,5 +1,5 @@
-# 5eFeats
-A D&amp;D 5e Feats Compendium for Foundry VTT.
+# 5eBackgrounds
+A D&amp;D 5e Backgrounds Compendium for Foundry VTT.
 
 
 Requires FVTT version 0.5.0 or higher
