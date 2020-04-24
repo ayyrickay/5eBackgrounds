@@ -1,0 +1,22 @@
+{
+   "name": "5eBackgrounds",
+   "title": "5e Backgrounds",
+   "description": "D&D 5e Backgrounds Compendium",
+   "author": "Jinker",
+   "version": "0.0.1",
+   "minimumCoreVersion": "0.5.0",
+   "packs": [
+    {
+      "name": "5eBackgrounds",
+      "label": "5e Backgrounds",
+      "path": "backgrounds.db",
+      "entity": "JournalEntry",
+      "module": "5eBackgrounds"
+    }
+  ],
+    "url": "https://github.com/jinkergm/5ebackgrounds",
+    "manifest": "https://raw.githubusercontent.com/jinkergm/5eBackgrounds/master/module.json",
+    "download": "https://github.com/jinkergm/5eBackgrounds/archive/master.zip"
+
+ }
+
