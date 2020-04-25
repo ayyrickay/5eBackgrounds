@@ -10,7 +10,7 @@
       "name": "5eBackgrounds",
       "label": "5e Backgrounds",
       "path": "backgrounds.db",
-      "entity": "Items",
+      "entity": "Item",
       "module": "5eBackgrounds"
     }
   ],
