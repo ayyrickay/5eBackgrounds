@@ -5,6 +5,10 @@
    "author": "Jinker",
    "version": "0.0.1",
    "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion": "0.5.3",
+   "url": "https://github.com/jinkergm/5ebackgrounds",
+   "manifest": "https://raw.githubusercontent.com/jinkergm/5eBackgrounds/master/module.json",
+   "download": "https://github.com/jinkergm/5eBackgrounds/archive/master.zip",
    "packs": [
     {
       "name": "5eBackgrounds",
@@ -13,10 +17,6 @@
       "entity": "JournalEntry",
       "module": "5eBackgrounds"
     }
-  ],
-    "url": "https://github.com/jinkergm/5ebackgrounds",
-    "manifest": "https://raw.githubusercontent.com/jinkergm/5eBackgrounds/master/module.json",
-    "download": "https://github.com/jinkergm/5eBackgrounds/archive/master.zip"
-
+  ]
  }
 
